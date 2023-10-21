@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1628BF7E2AE4923E00C2B793 /* RecipeFeaturedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1628BF7D2AE4923E00C2B793 /* RecipeFeaturedView.swift */; };
 		16AEBF992AE10D34009DEE93 /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16AEBF982AE10D34009DEE93 /* RecipeTabView.swift */; };
 		16C2B4782ADE55BF00DEC2E0 /* RecipeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16C2B4772ADE55BF00DEC2E0 /* RecipeList.swift */; };
 		16C2B47A2ADE55BF00DEC2E0 /* RecipeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16C2B4792ADE55BF00DEC2E0 /* RecipeListView.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1628BF7D2AE4923E00C2B793 /* RecipeFeaturedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeFeaturedView.swift; sourceTree = "<group>"; };
 		16AEBF982AE10D34009DEE93 /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
 		16C2B4742ADE55BF00DEC2E0 /* Recipe List App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Recipe List App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		16C2B4772ADE55BF00DEC2E0 /* RecipeList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeList.swift; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 			isa = PBXGroup;
 			children = (
 				16AEBF982AE10D34009DEE93 /* RecipeTabView.swift */,
+				1628BF7D2AE4923E00C2B793 /* RecipeFeaturedView.swift */,
 				16C2B4792ADE55BF00DEC2E0 /* RecipeListView.swift */,
 				16C2B4932ADE842A00DEC2E0 /* RecipeDetailView.swift */,
 			);
@@ -202,6 +205,7 @@
 				16C2B47A2ADE55BF00DEC2E0 /* RecipeListView.swift in Sources */,
 				16C2B4782ADE55BF00DEC2E0 /* RecipeList.swift in Sources */,
 				16C2B4922ADE59D600DEC2E0 /* DataService.swift in Sources */,
+				1628BF7E2AE4923E00C2B793 /* RecipeFeaturedView.swift in Sources */,
 				16AEBF992AE10D34009DEE93 /* RecipeTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
